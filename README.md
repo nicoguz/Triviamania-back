@@ -1,2 +1,2 @@
-# Triviamania-back
-API Service for triviamania app
+# Trivmaster-back
+API Service for trivmaster app
